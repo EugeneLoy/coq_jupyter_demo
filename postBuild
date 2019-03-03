@@ -1,2 +1,2 @@
-pip install --user coq_jupyter==1.3.0
+pip install --user coq_jupyter==1.4.0
 python -m coq_jupyter.install
